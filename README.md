@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phu-ngminh
 - 👀 I’m interested in ComputerScience things
 - 🌱 I’m currently learning Computer Science
-- 📫 How to reach me on Facebook: fb.com/hiimrichard11
+- 📫 Reach me on Facebook: fb.com/hiimrichard11
 
 <!---
 phu-ngminh/phu-ngminh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
